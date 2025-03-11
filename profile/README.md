@@ -2,6 +2,8 @@
 
 # Welcome to HammerFall Interactive organization page
 
+A small team from Novosibirsk, Russia, that consists of 4 team members.
+
 For you, it might look like there is nothing going on here, but be sure, there is something cooking behind the scenes!
 It is not that big of a game because since when we started doing it, we had nothing about game development 🎮 in our skill pocket except for a art 🎨 and programming 💻.
 
